@@ -20,7 +20,7 @@ public class Calculator implements ActionListener{
 	jf=new JFrame("Calculator"); 
 	jf.setLayout(null);
 	jf.setSize(600,600);
-	jf.setLocation(300,150);
+	jf.setLocation(300,300);
 	
 	
 	
